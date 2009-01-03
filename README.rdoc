@@ -7,19 +7,21 @@ I'll give a short example:
   In your model:
     class Service < ActiveRecord::Base  
       has_method_in :custom_method
-      validates_syntax_od :custom_method 
+      validates_syntax_of :custom_method 
     end
   
-  In your controller
-  
-  class OuterAccountsController < ApplicationController
-    def index
-      @service = Service.find(1)
-      @service.apply_methods!
+  In your controller:  
+    class OuterAccountsController < ApplicationController
+    
+      def create
+        Service.create :custom_method => %{def one;1;end}
+      end
       
-      @service = @service.apply_methods
-      @service = Service.find_and_apply_methods(1)
-      
-      @service.applied_methods => ["custom_validation"]
+      def show
+        @service = Service.find(1)
+        @service.apply_methods!
+        
+        @service.applied_methods => ["one"]
+        result = @service.one
+      end
     end
-  end
