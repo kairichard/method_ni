@@ -25,3 +25,9 @@ I'll give a short example:
         result = @service.one
       end
     end
+
+= Install 
+  ruby script/plugin intall git://github.com/kairichard/method_ni.git
+  
+= Misc
+  The test can be run outside off Rails
