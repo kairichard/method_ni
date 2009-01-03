@@ -30,4 +30,4 @@ I'll give a short example:
   ruby script/plugin intall git://github.com/kairichard/method_ni.git
   
 = Misc
-  The test can be run outside off Rails
+  Tests can be run outside of Rails
