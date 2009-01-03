@@ -1,11 +1,13 @@
 = method_ni
-  method_ni is a simple extension for ActiveRecord. You can easily store methods inside of records and evalute them on demand.
-  I'll give a short example:
+
+method_ni is a simple extension for ActiveRecord. You can easily store methods inside of records and evalute them on demand.
+I'll give a short example:
 
 = Usage
   In your model:
     class Service < ActiveRecord::Base  
       has_method_in :custom_method
+      validates_syntax_od :custom_method 
     end
   
   In your controller
@@ -14,13 +16,10 @@
     def index
       @service = Service.find(1)
       @service.apply_methods!
-        OR
+      
+      @service = @service.apply_methods
       @service = Service.find_and_apply_methods(1)
       
       @service.applied_methods => ["custom_validation"]
-      
-      @service.applied_methods.each do |method|
-        instance_eval(method)
-      end
     end
   end

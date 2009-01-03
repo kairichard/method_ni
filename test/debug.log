@@ -1,0 +1,437 @@
+  [4;36;1mDummy Load (0.2ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."name" = 'Method') LIMIT 1[0m
+  [4;36;1mDummy Load (0.2ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."name" = 'Method') LIMIT 1[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.8ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."name" = 'Method') LIMIT 1[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.3ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."name" = 1) LIMIT 1[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.6ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.6ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.5ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.5ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.7ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.5ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.5ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;35;1mDummy Load (0.6ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.6ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.6ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;35;1mDummy Load (0.9ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;36;1mDummy Load (0.5ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (1.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;36;1mDummy Load (0.5ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mSQL (2.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.3ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;36;1mDummy Load (0.5ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.3ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Create (0.2ms)[0m   [0;1mINSERT INTO "dummies" ("name", "created_at", "custom_method", "updated_at") VALUES('Container', '2009-01-03 15:56:32', 'def one;1;end', '2009-01-03 15:56:32')[0m
+  [4;35;1mDummy Create (0.9ms)[0m   [0mINSERT INTO "dummies" ("name", "created_at", "custom_method", "updated_at") VALUES('Container', '2009-01-03 15:56:32', NULL, '2009-01-03 15:56:32')[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Create (0.2ms)[0m   [0;1mINSERT INTO "dummies" ("name", "created_at", "custom_method", "updated_at") VALUES('Container', '2009-01-03 15:58:41', 'def one;1;end', '2009-01-03 15:58:41')[0m
+  [4;35;1mDummy Create (0.2ms)[0m   [0mINSERT INTO "dummies" ("name", "created_at", "custom_method", "updated_at") VALUES('Container', '2009-01-03 15:58:41', NULL, '2009-01-03 15:58:41')[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;36;1mDummy Load (0.6ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Create (0.2ms)[0m   [0;1mINSERT INTO "dummies" ("name", "created_at", "custom_method", "updated_at") VALUES('Container', '2009-01-03 16:14:35', 'def one;1;end', '2009-01-03 16:14:35')[0m
+  [4;35;1mDummy Create (0.1ms)[0m   [0mINSERT INTO "dummies" ("name", "created_at", "custom_method", "updated_at") VALUES('Container', '2009-01-03 16:14:35', NULL, '2009-01-03 16:14:35')[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Create (0.2ms)[0m   [0;1mINSERT INTO "dummies" ("name", "created_at", "custom_method", "updated_at") VALUES('Container', '2009-01-03 16:15:13', 'def one;1;end', '2009-01-03 16:15:13')[0m
+  [4;35;1mDummy Create (0.1ms)[0m   [0mINSERT INTO "dummies" ("name", "created_at", "custom_method", "updated_at") VALUES('Container', '2009-01-03 16:15:13', NULL, '2009-01-03 16:15:13')[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Create (0.2ms)[0m   [0;1mINSERT INTO "dummies" ("name", "created_at", "custom_method", "updated_at") VALUES('Container', '2009-01-03 16:15:30', 'def one;1;end', '2009-01-03 16:15:30')[0m
+  [4;35;1mDummy Create (0.2ms)[0m   [0mINSERT INTO "dummies" ("name", "created_at", "custom_method", "updated_at") VALUES('Container', '2009-01-03 16:15:30', NULL, '2009-01-03 16:15:30')[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Create (0.2ms)[0m   [0;1mINSERT INTO "dummies" ("name", "created_at", "custom_method", "updated_at") VALUES('Container', '2009-01-03 16:15:45', 'def one;1;end', '2009-01-03 16:15:45')[0m
+  [4;35;1mDummy Create (0.2ms)[0m   [0mINSERT INTO "dummies" ("name", "created_at", "custom_method", "updated_at") VALUES('Container', '2009-01-03 16:15:45', NULL, '2009-01-03 16:15:45')[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mDummy Load (0.5ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 2) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Load (0.4ms)[0m   [0;1mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;35;1mDummy Load (0.4ms)[0m   [0mSELECT * FROM "dummies" WHERE ("dummies"."id" = 1) [0m
+  [4;36;1mDummy Create (0.2ms)[0m   [0;1mINSERT INTO "dummies" ("name", "created_at", "custom_method", "updated_at") VALUES('Container', '2009-01-03 16:18:10', 'def one;1;end', '2009-01-03 16:18:10')[0m
+  [4;35;1mDummy Create (0.2ms)[0m   [0mINSERT INTO "dummies" ("name", "created_at", "custom_method", "updated_at") VALUES('Container', '2009-01-03 16:18:10', NULL, '2009-01-03 16:18:10')[0m

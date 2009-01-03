@@ -1,0 +1,9 @@
+with_method:
+    id: 1
+    name: Method
+    custom_method: def test_method; "hello world" ;end;
+    
+without_method:
+    id: 2    
+    name: No Method
+    custom_method: Here I am
