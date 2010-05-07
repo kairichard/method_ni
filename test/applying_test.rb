@@ -1,13 +1,11 @@
 require File.expand_path(File.dirname(__FILE__) + '/helper')
-require File.expand_path(File.dirname(__FILE__) + '/lib/activerecord_test_case')
-require File.expand_path(File.dirname(__FILE__) + '/../lib/checksyntax')
-class MethodsApplying < ActiveRecordTestCase
+class MethodsApplying < Test::Unit::TestCase
   
-  fixtures :dummies
+  # fixtures :dummies
     
   context "A Dummy instance/record " do
     setup do 
-      @dummy = Dummy.find(1)
+      @dummy =  Factory.build(:with_method)
     end
     
     should "respond to @instace.applied_methods" do 
